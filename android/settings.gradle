@@ -1,0 +1,3 @@
+rootProject.name = 'iosBridge'
+
+include ':app'
